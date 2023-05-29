@@ -1,1 +1,1 @@
-first readme
+second readme from GUI
